@@ -4,6 +4,8 @@ Due to the presence of a large number of signs, we paid attention to the most im
   
 ![traffic_out1](https://github.com/user-attachments/assets/30388d0f-591a-4b99-8ba7-cc253715ca11)
 
+![traffic_out1](https://github.com/user-attachments/assets/855ecb2b-249a-488e-9720-63b3df84a696)
+
 
 Here the classes and the accuracy of each class
 ![image](https://github.com/user-attachments/assets/376bbf71-44a5-46d1-b6dc-ca58311d0811)
