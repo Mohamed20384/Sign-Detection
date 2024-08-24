@@ -1,8 +1,7 @@
 # Sign Detection
  
 Due to the presence of a large number of signs, we paid attention to the most important signs, such as all speed signs, traffic signals, and stop signals, and all of this to make the car able to make the correct decision in terms of speeding or stopping when detecting any of these signals, also used YOLOv8.
-  
-![traffic_out1](https://github.com/user-attachments/assets/30388d0f-591a-4b99-8ba7-cc253715ca11)
+
 
 ![traffic_out1](https://github.com/user-attachments/assets/855ecb2b-249a-488e-9720-63b3df84a696)
 
